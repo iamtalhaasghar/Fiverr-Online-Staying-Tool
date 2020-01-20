@@ -1,6 +1,8 @@
 # Any Website-Online-Staying-Tool (Beta Version)
 A very easy and simple to use tool to stay online on Any Website as long as your PC is on.
 
+# From Where to Download
+The Executable file for this tool can be downloaded from <a href="https://github.com/talhaprogrammer/Any Website-Online-Staying-Tool/releases">Download Any Website Online Staying Tool</a> under the "Assets" Collapse Button.
 
 # How to Use
 <ol>
