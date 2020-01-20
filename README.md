@@ -1,4 +1,4 @@
-# Any Website-Online-Staying-Tool
+# Any Website-Online-Staying-Tool (Beta Version)
 A very easy and simple to use tool to stay online on Any Website as long as your PC is on.
 
 
@@ -20,3 +20,6 @@ A very easy and simple to use tool to stay online on Any Website as long as your
   <li>You can specify the sleep time.</li>
   <li>You can see how many times the mouse was clicked using the tool.</li>
 </ul>
+
+
+# Spread, Share and Show your Love for everyone and for this project.
