@@ -18,6 +18,7 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
+    scripts=['scripts/tabreloader'],
     install_requires=["PyQt5", "PyAutoGUI"],
     python_requires='>=3.6',
 )
