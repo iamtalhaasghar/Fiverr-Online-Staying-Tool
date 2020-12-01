@@ -3,5 +3,5 @@ A very easy and simple to use tool to stay online on Any Website as long as your
 
 # From Where to Download
 You can install this tool using pip using following command.
-pip install tabreloader
+    pip install tabreloader
 
