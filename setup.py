@@ -1,0 +1,23 @@
+import setuptools
+
+with open("README.md", "r") as fh:
+    long_description = fh.read()
+
+setuptools.setup(
+    name="tabreloader",
+    version="1.0.0",
+    author="Talha Asghar",
+    author_email="talhaasghar.contact@simplelogin.fr",
+    description="A very easy and simple to use tool to stay online on Any Website as long as your PC is on.",
+    long_description=long_description,
+    long_description_content_type="text/markdown",
+    url="https://github.com/iamtalhaasghar/Any Website-Online-Staying-Tool",
+    packages=setuptools.find_packages(),
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+    ],
+    install_requires=["PyQt5", "PyAutoGUI"],
+    python_requires='>=3.6',
+)
