@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="tabreloader",
-    version="1.0.0",
+    version="1.0.2",
     author="Talha Asghar",
     author_email="talhaasghar.contact@simplelogin.fr",
     description="A very easy and simple to use tool to stay online on Any Website as long as your PC is on.",
