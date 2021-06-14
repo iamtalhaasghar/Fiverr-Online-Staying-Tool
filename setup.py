@@ -8,10 +8,10 @@ setuptools.setup(
     version="1.0.4",
     author="Talha Asghar",
     author_email="talhaasghar.contact@simplelogin.fr",
-    description="A very easy and simple to use tool to stay online on Any Website as long as your PC is on.",
+    description="A very easy and simple to use tool to stay online on any website as long as your PC is on.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/iamtalhaasghar/Any Website-Online-Staying-Tool",
+    url="https://github.com/iamtalhaasghar/browser-tab-reloader",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
