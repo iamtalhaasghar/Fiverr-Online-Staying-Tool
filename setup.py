@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="tabreloader",
-    version="1.0.4",
+    version="2.0",
     author="Talha Asghar",
     author_email="talhaasghar.contact@simplelogin.fr",
     description="A very easy and simple to use tool to stay online on any website as long as your PC is on.",
@@ -18,7 +18,7 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    scripts=['scripts/tabreloader'],
+    scripts=['tabreloader.py'],
     install_requires=["PyQt5", "PyAutoGUI"],
     python_requires='>=3.6',
 )
